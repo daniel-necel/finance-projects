@@ -34,3 +34,7 @@ pip install yfinance pandas matplotlib - for project number 1 these are the depe
 1. **Clone this repository**
    ```bash
    git clone https://github.com/daniel-necel/finance-projects.git
+
+2. ** This is the personal budgjeting project **
+  ```bash
+    git clone https://github.com/daniel-necel/personal-budget-tracker.git
