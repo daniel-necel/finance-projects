@@ -27,6 +27,18 @@ A collection of Python-based finance tools built to **track, analyse, and visual
 pip install yfinance pandas matplotlib - for project number 1 these are the dependinces
 
 ---
+my 3rd project or my loan repayment calculator uses the staaandard amortisation formula:
+M = monthly payment
+
+P = loan amount
+
+r = monthly interest rate
+
+n = number of months
+
+          M = P X R
+   ------------------------
+   1-(1+R)to the power of -n
 
 
 ## ⚙️ Setup & Installation
