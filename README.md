@@ -50,3 +50,8 @@ n = number of months
 2. ** This is the personal budgjeting project **
   ```bash
     git clone https://github.com/daniel-necel/personal-budget-tracker.git
+
+3.**Loan repayment calculator **
+  ```bash
+  git clone https://github.com/YOUR-USERNAME/loan-repayment-calculator.git
+     
